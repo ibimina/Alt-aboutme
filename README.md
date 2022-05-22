@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/ibimina/first-assignment-alt)
-- Live Site URL:(https://ibimina.github.io/first-assignment-alt/)
+- Solution URL: (https://github.com/ibimina/Alt-aboutme)
+- Live Site URL:(https://ibimina.github.io/Alt-aboutme/)
 
 ## My process
 
