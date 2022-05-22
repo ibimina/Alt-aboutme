@@ -22,6 +22,7 @@ header {
   position: fixed;
   top: 0px;
   right: 0;
+
 }
 nav {
   width: 100%;
@@ -149,7 +150,8 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 9rem;
+  margin-top: 10rem;
+
 }
 
 .calculator-wrapper {
@@ -163,7 +165,7 @@ input.display {
   font-size: 30px;
   background-color: transparent;
   border: 0;
-
+padding: 0;
   color: white;
   height: 50px;
   display: flex;
@@ -233,7 +235,7 @@ border-radius: 10px;
   justify-content: center;
   align-items: center;
   margin: 1rem;
-  padding-top: 14rem;
+   margin-top: 10rem;
 }
 .login-main,
 .register-main,
@@ -244,13 +246,12 @@ border-radius: 10px;
   padding: 1rem;
   border-radius: 10px;
    background-color: rgb(105, 105, 39);
-  /* margin: 2rem; */
   min-width: 350px;
 
 }
 .register-main,
 .contact-main{
-  margin-top: 9rem;
+  margin-top: 10rem;
 margin-bottom: 2rem;
 }
 
