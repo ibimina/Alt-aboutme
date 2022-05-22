@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Alt aboutme",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Alt aboutme"
+  }
+}
